@@ -1,3 +1,5 @@
 introduction.md
-setuparch.md
+setup_arch.md
+humanities_data.md
+commandlinefu.md
 app_fullarch.md
