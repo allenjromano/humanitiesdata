@@ -1,5 +1,10 @@
 # Create your working environment
 
+## Summary
+
+Before you can get started you need to have a stable working environment. While humanists are used to a working environment for most day to day writing, editing, and teaching work, the kind of working environment that one needs for doing digital work may be different from the kind of working environment you are used to. 
+In particul
+
 ## Goals
 * Set up a bootable persistant usb device to serve as a working environment
 * become familiar with the command line and instructions that involve working on the command line

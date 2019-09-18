@@ -1,5 +1,6 @@
 introduction.md
-setup_arch.md
+setup.md
+regex.md
 humanities_data.md
 commandlinefu.md
 app_fullarch.md
